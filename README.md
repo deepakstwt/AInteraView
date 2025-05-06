@@ -61,7 +61,7 @@ Follow these steps to set up the project locally:
 
 **Installation**
 ```bash
-git clone [YOUR_REPOSITORY_URL]
+git clone https://github.com/deepakstwt/AInteraView
 cd interviewai
 npm install
 ```
