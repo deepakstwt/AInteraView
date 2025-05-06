@@ -1,9 +1,8 @@
 <div align="center">
   <br />
-  <h1>AInteraView</h1>
+  <h1>AinteraView</h1>
   <br />
-
-
+  
   <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
     <img src="https://img.shields.io/badge/-Vapi-white?style=for-the-badge&color=5dfeca" alt="vapi" />
@@ -11,13 +10,20 @@
     <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=DD2C00" alt="firebase" />
   </div>
 
-  <h3 align="center">AInteraView: Your AI-powered interview preparation platform</h3>
+  <h3 align="center">AinteraView: Your AI-powered interview preparation platform</h3>
 </div>
 
 ## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
+   - [Next.js](https://nextjs.org/docs)
+   - [Firebase](https://firebase.google.com/docs)
+   - [Tailwind CSS](https://tailwindcss.com/docs)
+   - [Vapi AI](https://docs.vapi.ai/)
+   - [shadcn/ui](https://ui.shadcn.com/docs)
+   - [Google Gemini](https://ai.google.dev/gemini-api/docs)
+   - [Zod](https://zod.dev/)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🔗 [Environment Setup](#environment-setup)
@@ -28,13 +34,13 @@ InterviewAI is a modern web application built with Next.js, Firebase, and Vapi A
 
 ## ⚙️ Tech Stack
 
-- Next.js
-- Firebase
-- Tailwind CSS
-- Vapi AI
-- shadcn/ui
-- Google Gemeni
-- Zod
+- [Next.js](https://nextjs.org/docs)
+- [Firebase](https://firebase.google.com/docs)
+- [Tailwind CSS](https://tailwindcss.com/docs)
+- [Vapi AI](https://docs.vapi.ai/)
+- [shadcn/ui](https://ui.shadcn.com/docs)
+- [Google Gemini](https://ai.google.dev/gemini-api/docs)
+- [Zod](https://zod.dev/)
 
 ## 🔋 Features
 
@@ -97,5 +103,4 @@ Visit [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## 🔗 Assets
 
-Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing) A Big ShoutOut to My Friend Frank From Nepal 
-
+Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing)
