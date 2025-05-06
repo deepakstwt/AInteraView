@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>InterviewAI</h1>
+  <h1>AInteraView</h1>
   <br />
   
   <div>
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=DD2C00" alt="firebase" />
   </div>
 
-  <h3 align="center">InterviewAI: Your AI-powered interview preparation platform</h3>
+  <h3 align="center">AInteraView: Your AI-powered interview preparation platform</h3>
 </div>
 
 ## 📋 Table of Contents
