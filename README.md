@@ -96,4 +96,5 @@ Visit [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## 🔗 Assets
 
-Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing)
+Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing) A Big ShoutOut to My Friend Frank From Nepal 
+
