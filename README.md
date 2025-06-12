@@ -26,7 +26,7 @@
    - [Zod](https://zod.dev/)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Environment Setup](#environment-setup)
+
 
 ## 🤖 Introduction
 
